@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talcite&show_icons=true&theme=react&count_private=true)
 Hi, I’m @Talcite, a high school student.
 - ♾️ I’m interested in coding, reading, writing, languages and all other cool stuff.
 - 👩‍💻 I’m currently learning JavaScript and HTML.
